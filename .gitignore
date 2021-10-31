@@ -1,0 +1,10 @@
+# Package files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tag.gz
+*.rar
+
+.idea
+*.iml
